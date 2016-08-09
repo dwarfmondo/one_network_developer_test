@@ -1,3 +1,6 @@
+# From within the directory, run the following command:
+# ruby ./question_1.rb
+# ===
 test_input = [
   { id: 1, group: 'group1' },
   { id: 2, group: 'group1' },
